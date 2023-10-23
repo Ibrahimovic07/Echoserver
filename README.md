@@ -61,10 +61,11 @@ print(f"Received {data!r}")
 
 ## OUTPUT:
 ### server
-![Screenshot 2023-09-07 230219](https://github.com/ShanmathiShanmugam/Echoserver/assets/121243595/c2d0366a-0dec-4ff6-a8ff-21984fa17dae)
+![Screenshot 2023-10-23 224743](https://github.com/RagulRM/Echoserver/assets/121609342/c8fa0266-f976-4ec0-ad65-f3f840b4315b)
 
 ### client
-![Screenshot 2023-09-07 230238](https://github.com/ShanmathiShanmugam/Echoserver/assets/121243595/7105f61e-5d62-4988-ad7f-f5696bc2e418)
+![Screenshot 2023-10-23 224717](https://github.com/RagulRM/Echoserver/assets/121609342/f506f305-6a16-426e-af20-b6b2a8a841fe)
+
 
 ## RESULT:
 The program is executed successfully
